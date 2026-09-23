@@ -65,8 +65,8 @@ You will need:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/huzaifa-gamedev/cs50-helicopter-game-3d.git
-cd cs50-helicopter-game-3d
+git clone https://github.com/huzaifa-gamedev/cs50-3d-helicopter.git
+cd cs50-3d-helicopter
 ```
 
 ### Open the Project
