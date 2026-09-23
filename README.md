@@ -141,9 +141,7 @@ Airplanes act as moving obstacles and travel through the environment alongside t
 
 ## ✨ Credits
 
-- Original skeleton code, assets, and assignment: **CS50's Introduction to Game Development (Harvard University)**
-- Original course: [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/)
-- 3D models and starter assets provided through the original CS50 project.
+- Original skeleton code & assets: CS50's Introduction to Game Development (Harvard). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 
 ---
 
@@ -157,8 +155,7 @@ For more details, see [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ## ✍️ Author
 
-**Muhammad Huzaifa Karim**
-
+**Muhammad Huzaifa Karim**  
 [GitHub Profile](https://github.com/huzaifakarim1)
 
 ---
