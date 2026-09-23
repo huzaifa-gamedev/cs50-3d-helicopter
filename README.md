@@ -149,11 +149,9 @@ Airplanes act as moving obstacles and travel through the environment alongside t
 
 ## 📄 License
 
-This implementation: © 2026 **Muhammad Huzaifa Karim**.
+- This implementation: © 2025 Muhammad Huzaifa Karim. Licensed under the [MIT License](LICENSE).  
 
-Licensed under the [MIT License](LICENSE).
-
-The original CS50 materials and assets remain subject to their respective licenses and attribution requirements.
+For more details, see [ATTRIBUTION.md](ATTRIBUTION.md).  
 
 ---
 
@@ -171,4 +169,4 @@ For ideas, feedback, or collaboration, feel free to reach out via [GitHub](https
 
 ---
 
-© 2026 Muhammad Huzaifa Karim. All rights reserved.
+© 2025 Muhammad Huzaifa Karim. All rights reserved.
